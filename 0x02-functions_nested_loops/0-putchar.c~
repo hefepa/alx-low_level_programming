@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+/**
+ * main - execute code for printing _putchar
+ * Return - terminate program
+ */
+int main(void)
+{
+	_putchar("_putchar");
+	_putchar('\n');
+
+	return (0);
+}
