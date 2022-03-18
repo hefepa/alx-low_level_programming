@@ -1,3 +1,4 @@
+void print_square(int size);
 void print_diagonal(int n);
 int mul(int a, int b);
 int _putchar(char c);
