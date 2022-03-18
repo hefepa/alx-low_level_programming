@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <math.h>
+/**
+ * main - execute code that prints
+ * the largest prime of 612852475143
+ * Return: 0
+ */
+
+int main(void)
+{
+	long a, maxf;
+	long num = 612852475143;
+	double square = sqrt(num);
+
+	for (a =1; a <= squuare; a++)
+	{
+		if (num % a == 0)
+		{
+			maxf = num / a;
+		}
+
+		printf("%ld\n", maxf);
+		return (0);
+	}
