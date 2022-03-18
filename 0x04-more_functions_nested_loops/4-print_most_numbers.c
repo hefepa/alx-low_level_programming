@@ -20,5 +20,5 @@ void print_most_numbers(void)
 		}
 	}
 
-	_ptuchar('\n');
+	_putchar('\n');
 }
