@@ -11,14 +11,12 @@
 
 void reset_to_98(int *n)
 {
-	int n;
-	int *p;
+	int p;
 
-	n = 98;
-	*p = n;
+	p = 98;
+	*n = p;
 
-	_putchar ("value of *p is: %d\n", *p);
-
+	putchar ("value of *p is: %d\n", *p);
 
 	return (0);
 }
