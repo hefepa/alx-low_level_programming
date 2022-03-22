@@ -1,0 +1,15 @@
+#include "main.h"
+
+/**
+* strlen - execute fucntion that returns the length of a sting
+* @s: the string lenght is required of
+* Return: void
+*/
+
+int _strlen(char *)
+{
+
+int len;
+
+len = strlen(s);
+}
