@@ -12,6 +12,6 @@ int main(int argc, char **argv)
 {
 	(void) argv;
 
-	printf("Number of argument is: %d\n", argc - 1);
+	printf("Number of argument is: %d\n", argc);
 	return (0);
 }
