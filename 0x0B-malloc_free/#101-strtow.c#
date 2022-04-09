@@ -1,0 +1,21 @@
+#include <stdlib.h>
+#include "main.h"
+
+/**
+ * strtow - function splits string into words
+ * @str: string to split
+ * Return: nothing
+ */
+
+char **strtow(char *str)
+{
+	char *split;
+	int len;
+	char dlm;
+
+
+	char dlm
+	if (str == NULL)
+		str = "";
+
+	
